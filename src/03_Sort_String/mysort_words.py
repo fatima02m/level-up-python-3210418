@@ -12,4 +12,4 @@ def sort_string(str):
 
 
 if __name__ == '__main__':
-    print(sort_string('j a l e m e y'))
+    print(sort_string('banana APPLE carrot watermelon peach'))
